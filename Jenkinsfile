@@ -15,7 +15,7 @@ pipeline
       {
          steps
 	 {
-	    echo'shankarguru...'
+	    echo'shankarguru'
 	 }
       }
    }
