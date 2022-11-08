@@ -4,7 +4,7 @@ pipeline
 
    stages
    {
-      stage('first s)
+      stage('first s')
       {
          steps
 	 {
